@@ -1,1 +1,1 @@
-OSS github gitbash
+practcal for OSS github gitbash
